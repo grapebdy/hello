@@ -2,6 +2,8 @@
 
 int main(void)
 {
-	printf("hello git flow\n");
+	printf("Step 1\n");
+	printf("Step 2\n");
+	printf("Step 3\n");
 	return 0;
 }
